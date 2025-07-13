@@ -1,4 +1,4 @@
-<h1 align = "center">Skyblock Collection Tracker Mod - Fabric</h1>
+<h1 align = "center">Skyblock Collection Tracker Mod - Fabric (W.I.P)</h1>
 
 
 <div align="center">
